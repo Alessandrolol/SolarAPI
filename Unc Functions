@@ -1,0 +1,10 @@
+function getexecutorname()
+	local name = "Lunar"
+	return name;
+end
+function identifyexecutor() : (string,string) -- just Get excutor name but the original name getexectuor name is a allais
+    local name = "Lunar" -- change if your own api
+    local Verison = "1.0.0" -- change if your own api
+	  return "Lunar", Verison;
+end
+-- 1% unc lol
